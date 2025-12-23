@@ -1,0 +1,4 @@
+*.exe
+history.txt
+invoice_*.txt
+invoice_no.txt
